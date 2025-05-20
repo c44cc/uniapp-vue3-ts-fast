@@ -27,8 +27,6 @@
 ## usage
 
 ```bash
-git clone https://github.com/a1518079148/uniapp-vue3-ts-fast.git
-
 pnpm i
 
 pnpm run dev:h5
